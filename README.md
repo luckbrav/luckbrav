@@ -1,4 +1,12 @@
+<p align="center">
+ 
+</p align="center">
+
 ### Hello friend, i'm Lucas, a soon-to-be developer 😳
+
+<!-- <img src="https://github.com/luckbrav/luckbrav/blob/main/images/banner3.gif"> -->
+
+![banner](https://user-images.githubusercontent.com/80040860/189751666-ff54adcf-e57f-4845-956f-013b08f0a40e.gif)
 
 
 <!-- **luckbrav/luckbrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
@@ -19,3 +27,5 @@ Here are some ideas to get you started: -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luckbrav&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
