@@ -1,12 +1,8 @@
-<p align="center">
- 
-</p align="center">
+<!--### Hello friend, i'm Lucas, a soon-to-be developer 😳 -->
 
-### Hello friend, i'm Lucas, a soon-to-be developer 😳
+<!-- ![banner](https://user-images.githubusercontent.com/80040860/189751666-ff54adcf-e57f-4845-956f-013b08f0a40e.gif) -->
 
-<!-- <img src="https://github.com/luckbrav/luckbrav/blob/main/images/banner3.gif"> -->
-
-![banner](https://user-images.githubusercontent.com/80040860/189751666-ff54adcf-e57f-4845-956f-013b08f0a40e.gif)
+![banner-_1_-_online-video-cutter com_](https://user-images.githubusercontent.com/80040860/189757369-73b2868e-e698-4f9a-bec8-bf3b69d868a2.gif)
 
 
 <!-- **luckbrav/luckbrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
