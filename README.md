@@ -8,7 +8,6 @@
   <a href="https://www.linkedin.com/in/lucas-gois-b1032a206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://open.spotify.com/user/luckbrav3?si=47a7cdabcc8a418a" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     <a href="https://steamcommunity.com/id/luckbrav/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-  
 </div>
 
 
@@ -33,22 +32,28 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
+<div align="center">
+  <img src="https://github.com/luckbrav/luckbrav/blob/output/github-contribution-grid-snake.svg"/>
+</div>
 
 <h2 align="center">
   My stats 
   <img src="https://github.com/luckbrav/luckbrav/blob/main/images/sunCrop.gif" width="50">
 </h2>
 
-<div align="center">
+<div align="center" style="inline-block">
   <a href="https://github.com/luckbrav">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luckbrav&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckbrav&layout=compact&langs_count=7&theme=synthwave"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-[<img align="center">/](https://spotify-recently-played-readme.vercel.app/api?user=luckbrav3&count=1)
   
   
-![Snake animation](https://github.com/luckbrav/luckbrav/blob/output/github-contribution-grid-snake.svg)
+  
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=luckbrav3&count=3"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=luckbrav3&cover_image=true&theme=default" height="216em"/>
+  <img src="https://github.com/luckbrav/luckbrav/blob/main/images/secondBanner.gif">
+</div>
 
   
   
