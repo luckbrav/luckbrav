@@ -14,10 +14,15 @@
 <h2 align="center">  About me 😳 </h2>
 
 <p align="center">
-  I'm a 1st year student pursuing Master's in Computer Science 🎓 from the Federal University of ABC (UFABC) 🏛. I'm a dedicated learner who's always willing to learn and work across technologies and domains 💡.
-</p> 
+  I'm a 1st year student pursuing Master's in Computer Science 🎓 from the Federal University of ABC (UFABC) 🏛. I'm a dedicated learner who's always willing to learn and work across technologies and domains 💡. Music, Movies and Games are 90% of my body 🎧🎬🎮.
+</p>
 
 
+<p align="center">
+  💻My specs: <img src="https://img.shields.io/badge/NVIDIA-RTX3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" width="150em"/> & 
+  <img src="https://img.shields.io/badge/Intel-Core_i5_11400-0071C5?style=for-the-badge&logo=intel&logoColor=white" width="150em"/>
+</p>
+ 
 
 <h2 align="center">
   Technology Stack 
