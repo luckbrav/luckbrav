@@ -7,7 +7,7 @@
   <a href = "mailto:luckbrav5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-gois-b1032a206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://open.spotify.com/user/luckbrav3?si=47a7cdabcc8a418a" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-    <a href="https://s.team/p/kbt-dfwd/JHCNVDQF" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+    <a href="https://steamcommunity.com/id/luckbrav/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
   
 </div>
 
@@ -15,7 +15,7 @@
 <h2 align="center">  About me 😳 </h2>
 
 <p align="center">
-  I'm a 1st year student pursuing Master's in Computer Science 🎓 from the Federal University of ABC (UFABC) 🏛. I'm a dedicated learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
+  I'm a 1st year student pursuing Master's in Computer Science 🎓 from the Federal University of ABC (UFABC) 🏛. I'm a dedicated learner who's always willing to learn and work across technologies and domains 💡.
 </p> 
 
 
@@ -34,16 +34,20 @@
 </div>
 
 
-##
+<h2 align="center">
+  My stats 
+  <img src="https://github.com/luckbrav/luckbrav/blob/main/images/sunCrop.gif" width="50">
+</h2>
 
 <div align="center">
   <a href="https://github.com/luckbrav">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luckbrav&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckbrav&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
-  
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=luckbrav3&count=1) 
 
+[<img align="center">/](https://spotify-recently-played-readme.vercel.app/api?user=luckbrav3&count=1)
+  
+  
 ![Snake animation](https://github.com/luckbrav/luckbrav/blob/output/github-contribution-grid-snake.svg)
 
   
