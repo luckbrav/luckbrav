@@ -49,7 +49,7 @@
 <div align="center" style="inline-block">
   <a href="https://github.com/luckbrav">
   <img width ="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=luckbrav&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img width ="400em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img width ="300em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
