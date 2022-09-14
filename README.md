@@ -56,7 +56,7 @@
   
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=luckbrav3&count=3"/>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=luckbrav3&cover_image=true&theme=default" height="216em"/>
+  <!-- <img src="https://spotify-github-profile.vercel.app/api/view?uid=luckbrav3&cover_image=true&theme=default" height="216em"/> -->
   <img src="https://github.com/luckbrav/luckbrav/blob/main/images/secondBanner.gif/" width="230em" height="216em">
 </div>
 
