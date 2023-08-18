@@ -14,7 +14,7 @@
 <h2 align="center">  About me 😳 </h2>
 
 <p align="center">
-  I'm a 1st year student pursuing Master's in Computer Science 🎓 from the Federal University of ABC (UFABC) 🏛. I'm a dedicated learner who's always willing to learn and work across technologies and domains 💡. Music, Movies and Games are 90% of my body 🎧🎬🎮.
+  I'm a 2nd year student pursuing bachelor's in Computer Science 🎓 from the Federal University of ABC (UFABC) 🏛. I'm a dedicated learner who's always willing to learn and work across technologies and domains 💡. Music, Movies and Games are 90% of my body 🎧🎬🎮.
 </p>
 
 
@@ -49,7 +49,7 @@
 <div align="center" style="inline-block">
   <a href="https://github.com/luckbrav">
   <img width ="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=luckbrav&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img width ="300em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img width ="300em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckbrav&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   
