@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/luckbrav/luckbrav/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github.com/luckbrav/luckbrav/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 <h2 align="center">
@@ -60,10 +60,6 @@
   <img src="https://github.com/luckbrav/luckbrav/blob/main/images/secondBanner.gif/" width="230em" height="216em">
 </div>
 
-  
-  
-  
-  
   
 <!-- **luckbrav/luckbrav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
