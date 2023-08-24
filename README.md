@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/luckbrav/luckbrav/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/luckbrav/luckbrav/blob/output/github-contribution-grid-snake-dark.svg">
 </div>
 
 <h2 align="center">
