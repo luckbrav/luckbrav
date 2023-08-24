@@ -42,6 +42,8 @@
   <img src="https://github.com/luckbrav/luckbrav/blob/output/github-contribution-grid-snake.svg">
 </div>
 
+![Snake animation](https://github.com/luckbrav/luckbrav/blob/output/github-contribution-grid-snake.svg)
+
 <h2 align="center">
   My stats 
   <img src="https://github.com/luckbrav/luckbrav/blob/main/images/sunCrop.gif" width="50">
