@@ -38,8 +38,9 @@
   <img align="center" alt="C" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 </div>
 
-
-![Snake animation](https://github.com/luckbrav/luckbrav/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/luckbrav/luckbrav/blob/output/github-contribution-grid-snake.svg">
+</div>
 
 <h2 align="center">
   My stats 
