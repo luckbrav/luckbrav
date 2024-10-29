@@ -14,7 +14,7 @@
 <h2 align="center">  About me 😳 </h2>
 
 <p align="center">
-  I'm a 2nd year student pursuing bachelor's in Computer Science 🎓 from the Federal University of ABC (UFABC) 🏛. I'm a dedicated learner who's always willing to learn and work across technologies and domains 💡. Music, Movies and Games are 90% of my body 🎧🎬🎮.
+  I'm a 3rd year student pursuing bachelor's in Computer Science 🎓 from the Federal University of ABC (UFABC) 🏛. I'm a dedicated learner who's always willing to learn and work across technologies and domains 💡. Music, Movies and Games are 90% of my body 🎧🎬🎮.
 </p>
 
 
